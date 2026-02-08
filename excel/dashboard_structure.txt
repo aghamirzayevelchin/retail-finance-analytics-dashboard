@@ -1,0 +1,18 @@
+Sheet 1: RawData
+- import CSV
+
+Sheet 2: Pivot
+- Rows: date
+- Values: sum(sales), sum(expense)
+- Calculated field: profit
+
+Sheet 3: Dashboard
+KPIs:
+- Total Sales
+- Total Expense
+- Total Profit
+Charts:
+- Monthly trend line
+- Store comparison bar chart
+- Category pie chart
+Add slicers: store, category, date
