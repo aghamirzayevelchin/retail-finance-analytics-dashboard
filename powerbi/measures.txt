@@ -1,0 +1,4 @@
+Total Sales = SUM(sales)
+Total Expense = SUM(expense)
+Profit = [Total Sales] - [Total Expense]
+Profit Margin = DIVIDE([Profit], [Total Sales])
